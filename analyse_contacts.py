@@ -53,7 +53,7 @@ def draw(datas):
 	plt.legend()
 	plt.xlabel('sex')
 	plt.ylabel('rate')
-	plt.title("Gender of Alfred's friends")
+	plt.title("Gender of your friends")
 	plt.show()
 
 def draw_signature():
